@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaEnc", "ProvaEnc\ProvaEnc.csproj", "{D2A64DE8-71FF-47D6-990C-28C57FF7CFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A64DE8-71FF-47D6-990C-28C57FF7CFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A64DE8-71FF-47D6-990C-28C57FF7CFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A64DE8-71FF-47D6-990C-28C57FF7CFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A64DE8-71FF-47D6-990C-28C57FF7CFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F64804-6D50-427E-A3ED-241D1461CEA1}
+	EndGlobalSection
+EndGlobal
